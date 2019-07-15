@@ -1,3 +1,5 @@
+![Rails Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png)
+
 # What are Rails partials
 Partial templates - usually just called "partials" - are another device for breaking the rendering process into more manageable chunks. With a partial, you can move the code for rendering a particular piece of a response to its own file.
 
@@ -14,12 +16,8 @@ Partial templates - usually just called "partials" - are another device for brea
 
 6. Separating your view into partials can also help in in proper fragment caching (Fragment Caching) of some portion of you webpage. Better management.
 
-
-
-
-
-
 <br>
+
 ## Resources
 
 - [Rails Guides](https://guides.rubyonrails.org/layouts_and_rendering.html#using-partials)
