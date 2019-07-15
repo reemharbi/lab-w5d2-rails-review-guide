@@ -21,4 +21,4 @@ Partial templates - usually just called "partials" - are another device for brea
 ## Resources
 
 - [Rails Guides](https://guides.rubyonrails.org/layouts_and_rendering.html#using-partials)
-- [Why Use Rails Rails Partials] (https://stackoverflow.com/questions/17453972/what-is-the-use-of-partials-in-rails)
+- [Why Use Rails Rails Partials](https://stackoverflow.com/questions/17453972/what-is-the-use-of-partials-in-rails)
